@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1795206170 source:c:\users\admin\downloads\group project_grp 24\group project_grp 24\emergency response priority system_group 24\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
